@@ -1,0 +1,5 @@
+{
+  "name": "DesignSystem.ai",
+  "description": "An AI-powered tool that analyzes code or descriptions to generate a complete, interactive Design System in a Figma-like canvas and a searchable documentation site.",
+  "requestFramePermissions": []
+}
